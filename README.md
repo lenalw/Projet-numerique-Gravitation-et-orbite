@@ -1,1 +1,1 @@
-# Projet-num-rique-Gravitation-et-orbite
+# Projet-numerique-Gravitation-et-orbite
